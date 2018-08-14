@@ -10,3 +10,4 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+puts "Employees: #{Employee.count} / Stores: #{Store.count}"
